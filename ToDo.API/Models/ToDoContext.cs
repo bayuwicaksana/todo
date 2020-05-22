@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using MySQL.Data.EntityFrameworkCore.Extensions; 
+//using MySQL.Data.EntityFrameworkCore.Extensions; 
 using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
@@ -20,7 +20,7 @@ namespace ToDo.API.Models
             } else { //if everything goes well set the connection string with the one in the appsettings.json
                 ConnectionString = Configuration.GetConnectionString("Default");
             }
-            optionsBuilder.UseMySQL(ConnectionString);
+            optionsBuilder.UseMySql(ConnectionString);
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder) //this is to map the models into the database
