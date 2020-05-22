@@ -1,0 +1,11 @@
+E:\prive\rad4m\ToDo.API\bin\Debug\netcoreapp2.0\ToDo.API.deps.json
+E:\prive\rad4m\ToDo.API\bin\Debug\netcoreapp2.0\ToDo.API.runtimeconfig.json
+E:\prive\rad4m\ToDo.API\bin\Debug\netcoreapp2.0\ToDo.API.runtimeconfig.dev.json
+E:\prive\rad4m\ToDo.API\bin\Debug\netcoreapp2.0\ToDo.API.dll
+E:\prive\rad4m\ToDo.API\bin\Debug\netcoreapp2.0\ToDo.API.pdb
+E:\prive\rad4m\ToDo.API\obj\Debug\netcoreapp2.0\ToDo.API.csprojAssemblyReference.cache
+E:\prive\rad4m\ToDo.API\obj\Debug\netcoreapp2.0\ToDo.API.csproj.CoreCompileInputs.cache
+E:\prive\rad4m\ToDo.API\obj\Debug\netcoreapp2.0\ToDo.API.AssemblyInfoInputs.cache
+E:\prive\rad4m\ToDo.API\obj\Debug\netcoreapp2.0\ToDo.API.AssemblyInfo.cs
+E:\prive\rad4m\ToDo.API\obj\Debug\netcoreapp2.0\ToDo.API.dll
+E:\prive\rad4m\ToDo.API\obj\Debug\netcoreapp2.0\ToDo.API.pdb
